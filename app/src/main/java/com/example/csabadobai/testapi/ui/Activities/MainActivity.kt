@@ -1,7 +1,8 @@
-package com.example.csabadobai.testapi
+package com.example.csabadobai.testapi.ui.Activities
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.example.csabadobai.testapi.R
 import com.example.csabadobai.testapi.api.Commands.Command
 import com.example.csabadobai.testapi.api.Request.UserLoginRequest
 import com.example.csabadobai.testapi.data.models.User
