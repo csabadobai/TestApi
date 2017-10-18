@@ -1,4 +1,4 @@
-package com.example.csabadobai.testapi.data.ResponseClasses
+package com.example.csabadobai.testapi.data.response
 
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName
